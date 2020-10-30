@@ -1,0 +1,27 @@
+<html>
+
+<head>
+    <title>JS</title>
+</head>
+
+<body>
+    <script>
+        var endereco = {
+            rua: "Rua dos pinheiros", numero: 1293,
+            bairro: "Centro", cidade: "São Paulo",
+            uf: "SP"
+        };
+
+        function resposta(rua, numero, bairro, cidade, uf) {
+            return `O usuário mora em ${cidade} / ${uf}, no bairro ${bairro},
+        na rua "${rua}" com nº ${numero}`
+        }
+
+        var respostaFinal = resposta(endereco.rua, endereco.numero, endereco.bairro,
+            endereco.cidade, endereco.uf)
+        console.log(respostaFinal)
+
+    </script>
+</body>
+
+</html>
