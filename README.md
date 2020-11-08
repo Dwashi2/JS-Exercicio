@@ -1,7 +1,7 @@
 # JS-Exercicio
 
 
-Exercícios: Módulo 01 1o exercício
+<h1>Exercícios: Módulo 01 1o exercício</h1>
 
 Crie uma função que dado o objeto a seguir:
 var endereco = {
