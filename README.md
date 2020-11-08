@@ -14,7 +14,7 @@ Retorne o seguinte conteúdo:
 O usuário mora em São Paulo / SP, no bairro Centro, na rua "Rua dos Pinheiros" com no 1293.
 
 
-2o exercício
+<b>2o exercício</b>
 
 Crie uma função que dado um intervalo (entre x e y) exiba todos número pares:
 
