@@ -6,13 +6,13 @@
 
 Crie uma função que dado o objeto a seguir:
 </br>
-<code>
+```
 var endereco = {
 rua: "Rua dos pinheiros", numero: 1293,
 bairro: "Centro", cidade: "São Paulo",
 uf: "SP"
 };
-  </code>
+```
 
 Retorne o seguinte conteúdo:
 </br>
