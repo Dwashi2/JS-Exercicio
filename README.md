@@ -26,7 +26,6 @@ O usuário mora em São Paulo / SP, no bairro Centro, na rua "Rua dos Pinheiros"
 Crie uma função que dado um intervalo (entre x e y) exiba todos número pares:
 
 <code>
-  <span>function</span>
 function pares(x, y) {
   // código aqui
 }
