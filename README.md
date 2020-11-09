@@ -16,6 +16,7 @@ uf: "SP"
   </code>
 
 Retorne o seguinte conteúdo:
+</br>
 <code>
 O usuário mora em São Paulo / SP, no bairro Centro, na rua "Rua dos Pinheiros" com no 1293.
 </code>
