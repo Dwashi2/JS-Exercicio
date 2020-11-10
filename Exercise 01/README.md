@@ -35,3 +35,9 @@ uf: "SP"
 };
 ```
 
+
+Return the following content:
+
+``
+The user lives in São Paulo / SP, in the Centro neighborhood, on Rua "Rua dos Pinheiros" with no 1293.
+``
